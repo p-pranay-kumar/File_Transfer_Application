@@ -1,2 +1,1 @@
-# File_Transfer_Application
-We can able to transfer the files from device to another which are connected to the same network
+The File Transfer Application is a comprehensive Java-based tool designed to facilitate the seamless transfer of files between users. Utilizing both client-server architecture and an intuitive graphical user interface (GUI), this application ensures efficient and user-friendly file sharing. It caters to the needs of both authenticated and guest users, providing robust security features and a streamlined user experience.
